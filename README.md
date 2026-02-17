@@ -11,9 +11,9 @@ module allows user to run simple calculations, like add, subtract, multiply, and
 4. Run the file.
 
 ## features
-can run simple calculations
-asks if user wishes to give remainder form during division
-implemented error handling
+- can run simple calculations
+- asks if user wishes to give remainder form during division
+- implemented error handling
  
 ## technologies used
 python
